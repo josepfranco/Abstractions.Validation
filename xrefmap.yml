@@ -1,0 +1,147 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Abstractions.Validation
+  name: Abstractions.Validation
+  href: api/Abstractions.Validation.html
+  commentId: N:Abstractions.Validation
+  fullName: Abstractions.Validation
+  nameWithType: Abstractions.Validation
+- uid: Abstractions.Validation.IValidator`1
+  name: IValidator<TRecord>
+  href: api/Abstractions.Validation.IValidator-1.html
+  commentId: T:Abstractions.Validation.IValidator`1
+  name.vb: IValidator(Of TRecord)
+  fullName: Abstractions.Validation.IValidator<TRecord>
+  fullName.vb: Abstractions.Validation.IValidator(Of TRecord)
+  nameWithType: IValidator<TRecord>
+  nameWithType.vb: IValidator(Of TRecord)
+- uid: Abstractions.Validation.IValidator`1.ValidateAsync(`0,CancellationToken)
+  name: ValidateAsync(TRecord, CancellationToken)
+  href: api/Abstractions.Validation.IValidator-1.html#Abstractions_Validation_IValidator_1_ValidateAsync__0_CancellationToken_
+  commentId: M:Abstractions.Validation.IValidator`1.ValidateAsync(`0,CancellationToken)
+  fullName: Abstractions.Validation.IValidator<TRecord>.ValidateAsync(TRecord, CancellationToken)
+  fullName.vb: Abstractions.Validation.IValidator(Of TRecord).ValidateAsync(TRecord, CancellationToken)
+  nameWithType: IValidator<TRecord>.ValidateAsync(TRecord, CancellationToken)
+  nameWithType.vb: IValidator(Of TRecord).ValidateAsync(TRecord, CancellationToken)
+- uid: Abstractions.Validation.IValidator`1.ValidateAsync*
+  name: ValidateAsync
+  href: api/Abstractions.Validation.IValidator-1.html#Abstractions_Validation_IValidator_1_ValidateAsync_
+  commentId: Overload:Abstractions.Validation.IValidator`1.ValidateAsync
+  isSpec: "True"
+  fullName: Abstractions.Validation.IValidator<TRecord>.ValidateAsync
+  fullName.vb: Abstractions.Validation.IValidator(Of TRecord).ValidateAsync
+  nameWithType: IValidator<TRecord>.ValidateAsync
+  nameWithType.vb: IValidator(Of TRecord).ValidateAsync
+- uid: Abstractions.Validation.Models
+  name: Abstractions.Validation.Models
+  href: api/Abstractions.Validation.Models.html
+  commentId: N:Abstractions.Validation.Models
+  fullName: Abstractions.Validation.Models
+  nameWithType: Abstractions.Validation.Models
+- uid: Abstractions.Validation.Models.Error
+  name: Error
+  href: api/Abstractions.Validation.Models.Error.html
+  commentId: T:Abstractions.Validation.Models.Error
+  fullName: Abstractions.Validation.Models.Error
+  nameWithType: Error
+- uid: Abstractions.Validation.Models.Error.#ctor(System.String,System.String,System.Object)
+  name: Error(String, String, Object)
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error__ctor_System_String_System_String_System_Object_
+  commentId: M:Abstractions.Validation.Models.Error.#ctor(System.String,System.String,System.Object)
+  fullName: Abstractions.Validation.Models.Error.Error(System.String, System.String, System.Object)
+  nameWithType: Error.Error(String, String, Object)
+- uid: Abstractions.Validation.Models.Error.#ctor*
+  name: Error
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error__ctor_
+  commentId: Overload:Abstractions.Validation.Models.Error.#ctor
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Error.Error
+  nameWithType: Error.Error
+- uid: Abstractions.Validation.Models.Error.Code
+  name: Code
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error_Code
+  commentId: P:Abstractions.Validation.Models.Error.Code
+  fullName: Abstractions.Validation.Models.Error.Code
+  nameWithType: Error.Code
+- uid: Abstractions.Validation.Models.Error.Code*
+  name: Code
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error_Code_
+  commentId: Overload:Abstractions.Validation.Models.Error.Code
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Error.Code
+  nameWithType: Error.Code
+- uid: Abstractions.Validation.Models.Error.InputValue
+  name: InputValue
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error_InputValue
+  commentId: P:Abstractions.Validation.Models.Error.InputValue
+  fullName: Abstractions.Validation.Models.Error.InputValue
+  nameWithType: Error.InputValue
+- uid: Abstractions.Validation.Models.Error.InputValue*
+  name: InputValue
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error_InputValue_
+  commentId: Overload:Abstractions.Validation.Models.Error.InputValue
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Error.InputValue
+  nameWithType: Error.InputValue
+- uid: Abstractions.Validation.Models.Error.Message
+  name: Message
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error_Message
+  commentId: P:Abstractions.Validation.Models.Error.Message
+  fullName: Abstractions.Validation.Models.Error.Message
+  nameWithType: Error.Message
+- uid: Abstractions.Validation.Models.Error.Message*
+  name: Message
+  href: api/Abstractions.Validation.Models.Error.html#Abstractions_Validation_Models_Error_Message_
+  commentId: Overload:Abstractions.Validation.Models.Error.Message
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Error.Message
+  nameWithType: Error.Message
+- uid: Abstractions.Validation.Models.Result
+  name: Result
+  href: api/Abstractions.Validation.Models.Result.html
+  commentId: T:Abstractions.Validation.Models.Result
+  fullName: Abstractions.Validation.Models.Result
+  nameWithType: Result
+- uid: Abstractions.Validation.Models.Result.#ctor(System.Boolean,IEnumerable{Abstractions.Validation.Models.Error})
+  name: Result(Boolean, IEnumerable<Error>)
+  href: api/Abstractions.Validation.Models.Result.html#Abstractions_Validation_Models_Result__ctor_System_Boolean_IEnumerable_Abstractions_Validation_Models_Error__
+  commentId: M:Abstractions.Validation.Models.Result.#ctor(System.Boolean,IEnumerable{Abstractions.Validation.Models.Error})
+  name.vb: Result(Boolean, IEnumerable(Of Error))
+  fullName: Abstractions.Validation.Models.Result.Result(System.Boolean, IEnumerable<Abstractions.Validation.Models.Error>)
+  fullName.vb: Abstractions.Validation.Models.Result.Result(System.Boolean, IEnumerable(Of Abstractions.Validation.Models.Error))
+  nameWithType: Result.Result(Boolean, IEnumerable<Error>)
+  nameWithType.vb: Result.Result(Boolean, IEnumerable(Of Error))
+- uid: Abstractions.Validation.Models.Result.#ctor*
+  name: Result
+  href: api/Abstractions.Validation.Models.Result.html#Abstractions_Validation_Models_Result__ctor_
+  commentId: Overload:Abstractions.Validation.Models.Result.#ctor
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Result.Result
+  nameWithType: Result.Result
+- uid: Abstractions.Validation.Models.Result.Errors
+  name: Errors
+  href: api/Abstractions.Validation.Models.Result.html#Abstractions_Validation_Models_Result_Errors
+  commentId: P:Abstractions.Validation.Models.Result.Errors
+  fullName: Abstractions.Validation.Models.Result.Errors
+  nameWithType: Result.Errors
+- uid: Abstractions.Validation.Models.Result.Errors*
+  name: Errors
+  href: api/Abstractions.Validation.Models.Result.html#Abstractions_Validation_Models_Result_Errors_
+  commentId: Overload:Abstractions.Validation.Models.Result.Errors
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Result.Errors
+  nameWithType: Result.Errors
+- uid: Abstractions.Validation.Models.Result.IsValid
+  name: IsValid
+  href: api/Abstractions.Validation.Models.Result.html#Abstractions_Validation_Models_Result_IsValid
+  commentId: P:Abstractions.Validation.Models.Result.IsValid
+  fullName: Abstractions.Validation.Models.Result.IsValid
+  nameWithType: Result.IsValid
+- uid: Abstractions.Validation.Models.Result.IsValid*
+  name: IsValid
+  href: api/Abstractions.Validation.Models.Result.html#Abstractions_Validation_Models_Result_IsValid_
+  commentId: Overload:Abstractions.Validation.Models.Result.IsValid
+  isSpec: "True"
+  fullName: Abstractions.Validation.Models.Result.IsValid
+  nameWithType: Result.IsValid
